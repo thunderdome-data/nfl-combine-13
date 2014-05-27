@@ -6,7 +6,7 @@ What is this?
 
 This was a project for the Thunderdome sports desk to visualize the performances of athletes at the NFL combines from 1998 to 2012, using Google Fusion tables.
 
-![NFL combine performances](combine.png)
+![NFL combine performances](screenshots/combine.png)
 
 Credits
 ---------
